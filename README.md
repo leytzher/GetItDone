@@ -2,7 +2,7 @@
 
 A very simple TODO app in Clojurescript.
 
-![](getidone.png)
+![](getitdone.png)
 
 
 
